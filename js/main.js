@@ -48,7 +48,7 @@
           if (el.tagName === 'TITLE') el.textContent = EN[k]; else el.innerHTML = EN[k];
         } else if (window.console) console.warn('[i18n] missing English for', k);
       } else {
-        el.innerHTML = el._zh;
+        el.innerHTML = (k in ZH) ? ZH[k] : el._zh;
       }
     });
     attrEls.forEach(function (el) {
@@ -186,6 +186,8 @@
     var img = document.createElement('img');
     img.src = src; img.loading = 'lazy';
     img.alt = fig.getAttribute('data-alt') || (cap ? cap.textContent : '');
+    var pos = (fig.getAttribute('data-object-position') || '').trim();
+    if (pos) img.style.objectPosition = pos;
     btn.appendChild(img);
     var ph = fig.querySelector('.photo-ph');
     if (ph) fig.replaceChild(btn, ph); else fig.insertBefore(btn, fig.firstChild);

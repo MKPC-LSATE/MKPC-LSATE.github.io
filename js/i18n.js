@@ -30,7 +30,7 @@ window.LSATE_EN = {
   "nav.theme": "Theme",
   "nav.days": "2 Days",
   "nav.programme": "Rundown",
-  "nav.join": "How to Join",
+  "nav.join": "Join",
   "nav.past": "Past",
   "nav.venue": "Venue",
   "nav.faq": "FAQ",
@@ -363,6 +363,7 @@ window.LSATE_EN = {
 
 /* Extra Chinese strings used only by JavaScript (not present in the HTML). */
 window.LSATE_ZH_EXTRA = {
+  "nav.download": "下載",
   "a11y.menuClose": "關閉選單",
   "media.soon": "可於下方播放",
   "media.vD": "宣傳片可於左側／下方播放。",
