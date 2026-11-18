@@ -724,7 +724,7 @@ html[lang="en"] .hero-title { font-size: clamp(2.4rem, 11.5vw, 5.4rem); line-hei
 .past-line { list-style: none; margin: 0 0 2rem; padding: 0; display: grid; gap: 1rem; position: relative; }
 .pl-item { position: relative; background: var(--paper); border: var(--border); border-radius: var(--radius); box-shadow: var(--shadow-sm); padding: 1.2rem 1.2rem 1rem; }
 .pl-year { display: inline-block; font-family: var(--font-display); font-weight: 900; font-size: 1.6rem; line-height: 1; padding: .25rem .6rem; border: var(--border); border-radius: 12px; margin-bottom: .7rem; box-shadow: 3px 3px 0 var(--ink); }
-.pl-2019 .pl-year { background: var(--sky); } .pl-2021 .pl-year { background: var(--mint); } .pl-2022 .pl-year { background: var(--orange); color: #fff; } .pl-2023 .pl-year { background: var(--yellow); } .pl-2024 .pl-year { background: var(--violet); color: #fff; } .pl-2025 .pl-year { background: var(--pink); color: #fff; }
+.pl-2019 .pl-year { background: var(--sky); } .pl-2021 .pl-year { background: var(--mint); } .pl-2022 .pl-year { background: var(--orange); color: #fff; } .pl-2023 .pl-year { background: var(--yellow); } .pl-2024 .pl-year { background: var(--violet); color: #fff; } .pl-2025 .pl-year { background: var(--pink); color: #fff; } .pl-2026 .pl-year { background: var(--sky); }
 .pl-2027 { background: var(--grad-hero); color: #fff; border-color: var(--ink); }
 .pl-2027 .pl-year { background: var(--pink); color: var(--ink); }
 .pl-item h3 { font-size: 1.1rem; }
