@@ -729,6 +729,9 @@ html[lang="en"] .hero-title { font-size: clamp(2.4rem, 11.5vw, 5.4rem); line-hei
 .pl-2027 .pl-year { background: var(--pink); color: var(--ink); }
 .pl-item h3 { font-size: 1.1rem; }
 .pl-item p { margin: 0; font-size: .93rem; line-height: 1.6; }
+.pl-link { margin-top: .7rem !important; }
+.pl-link a { font-weight: 700; color: var(--violet-d); text-decoration: underline; text-underline-offset: .15em; }
+.pl-link a:hover { color: var(--violet); }
 .reach { display: grid; gap: 1rem; background: #FFF1A8; border: var(--border); border-radius: var(--radius); box-shadow: var(--shadow); padding: 1.2rem 1.3rem; margin-bottom: 3rem; }
 .reach-title { margin: 0; font-weight: 900; font-size: 1.1rem; }
 .reach-chips { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .5rem; }
