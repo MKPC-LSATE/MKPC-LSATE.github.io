@@ -233,6 +233,8 @@ window.LSATE_EN = {
   "past.kicker": "Past editions",
   "past.title": "Best of past <span class=\"hl hl-pink\">editions</span>",
   "past.sub": "Selected past events, from the 2021 reflections, GLL 2022 / 2023 / 2024 post-conference reports, and the 2025 conference booklet.",
+  "past.bookletTitle": "Past event booklet",
+  "past.bookletLead": "View the GLL International Conference 2025–26 post-conference booklet (e-book).",
   "past.y19t": "GLL is born",
   "past.y19d": "Man Kwan Pak Kau College, iFuture and CELSCA first launch Global Leadership Link (Hong Kong, China).",
   "past.y21t": "‘Let Students Talk about Education’ Conference 2021",
