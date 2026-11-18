@@ -40,9 +40,10 @@ window.LSATE_EN = {
   "brand.text": "‘Let Students Talk about Education’<b>2027</b>",
 
   "dl.title": "Downloads",
-  "dl.lead": "Programme / charter PDFs for download.",
+  "dl.lead": "Download the 2027 programme / charter PDFs, or view the GLL International Conference 2025–26 post-conference booklet.",
   "dl.en": "📄 Download programme / charter (English)",
   "dl.zh": "📄 Download programme / charter (Chinese)",
+  "dl.ebook": "📘 View 2025–26 post-conference booklet (e-book)",
 
   "hero.edition": "GLL (Hong Kong, China) 2027",
   "hero.eyebrow": "International Conference 2027",
@@ -243,6 +244,7 @@ window.LSATE_EN = {
   "past.y24t": "GLL 2024 Series 1 · International Conference",
   "past.y24d": "11 May 2024 · Man Kwan Pak Kau College (51 Tin Wah Road, Tin Shui Wai). Theme: Artificial Intelligence: addressing the opportunities &amp; challenges of using A.I. in the world / your country. Keynote: Prof. Wong Kam Fai; opening / closing: Principal Wong Wing Tung. Judges: Professor Law, Ms. Pang, Professor Lee, Dr. Mack. Primary and secondary student leaders presented; overseas students also joined via Zoom.",
   "past.y25t": "‘Let Students Talk About Education’ International Conference 2025",
+  "past.y25ebook": "📘 View the 2025–26 post-conference booklet (e-book)",
   "past.y25d": "10 May 2025 · 8:45 a.m.–12:30 p.m. (GMT+8). Theme: Intangible Cultural Heritage: Preservation and Transmission. Keynote: Prof. Mak King-sang, MH (Chairperson of the Intangible Cultural Heritage Advisory Committee); welcoming speech: Supervisor Prof. Tam Man Kwan. Rundown includes registration, parallel sessions, an ICH performance by Zhejiang Jiaxing Experimental Primary School, and closing remarks by Principal Wong Wing Tung.",
   "past.y27t": "Next stop: you!",
   "past.y27d": "Classrooms Without Walls · Inclusive Campus · 14–15 May",
