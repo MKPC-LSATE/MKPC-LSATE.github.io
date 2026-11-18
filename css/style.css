@@ -735,6 +735,7 @@ html[lang="en"] .hero-title { font-size: clamp(2.4rem, 11.5vw, 5.4rem); line-hei
 .booklet-box { display: grid; gap: .7rem; justify-items: start; background: var(--paper); border: var(--border); border-radius: var(--radius); box-shadow: var(--shadow-sm); padding: 1.3rem 1.35rem 1.35rem; margin: 0 0 2rem; }
 .booklet-box .sub-title { margin: 0; }
 .booklet-box p { margin: 0; font-size: 1rem; line-height: 1.6; color: var(--ink-2); }
+.booklet-actions { width: 100%; max-width: 40rem; }
 .reach { display: grid; gap: 1rem; background: #FFF1A8; border: var(--border); border-radius: var(--radius); box-shadow: var(--shadow); padding: 1.2rem 1.3rem; margin-bottom: 3rem; }
 .reach-title { margin: 0; font-weight: 900; font-size: 1.1rem; }
 .reach-chips { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .5rem; }
